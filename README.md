@@ -92,10 +92,3 @@ This project is deployed on **Vercel**.
 https://utility-hub-website-liard.vercel.app/
 
 ---
-
-
-## ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
-
-Happy Coding! 🚀
