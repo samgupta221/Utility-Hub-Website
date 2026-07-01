@@ -89,6 +89,6 @@ This project is deployed on **Vercel**.
 
 **Live Website:**
 
-https://utility-hub-website-liard.vercel.app/
+https://static-fitness-website.vercel.app/
 
 ---
